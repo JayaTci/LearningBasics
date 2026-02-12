@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(6, 31, 7);
+  background-color: rgb(75, 208, 79);
 }
 h1 {
   color: blue;
@@ -13,4 +13,21 @@ p {
 p {
   border: 2px solid powderblue;
   padding: 30px;
+}
+
+table, th, td {
+  border: 1px solid rgb(177, 64, 64);
+}
+
+/* div {
+  width: 300px;
+  margin: auto;
+} */
+
+.city {
+  background-color: tomato;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
 }
